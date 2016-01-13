@@ -3,10 +3,10 @@
   <channel>
     <title>Wellware</title>
     <description>Wellware technical blog</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 13 Jan 2016 13:53:30 -0500</pubDate>
-    <lastBuildDate>Wed, 13 Jan 2016 13:53:30 -0500</lastBuildDate>
+    <link>/articles/</link>
+    <atom:link href="/articles/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 13 Jan 2016 14:00:02 -0500</pubDate>
+    <lastBuildDate>Wed, 13 Jan 2016 14:00:02 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -15,7 +15,7 @@
 
 &lt;p&gt;О чем думал Христофор Колумб, открывая Новый Свет, о чем мечтал составляя очередную карту, прокладывая маршрут, ступая на неизведанную твердыню?&lt;/p&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/new-zealand.png&quot; /&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/articles/assets/img/new-zealand.png&quot; /&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Terra Incognita во все времена своя. В нефтегазовом производстве (именно так в наше время модно описывать некогда горделивые промыслы) открытие нового можно сравнить с исследованием целого мира.&lt;br /&gt;
 &lt;!--more--&gt;&lt;/p&gt;
@@ -24,7 +24,7 @@
 
 &lt;p&gt;Но все это впереди, а пока перед нами современный Колумб, геолог, перед которым множество карт его Terra Incognita в виде отражающих горизонтов по кровлям основных объектов, перспективных к разработке (и других карт тоже, не будем акцентировать на этом внимание).&lt;/p&gt;
 
-&lt;figure&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/map.png&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;img src=&quot;/articles/assets/img/map.png&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;Составление моделей, карт изохор, насыщенности — это целый мир, отдельный, со своими задачами и решениями, ожиданиями и разочарованиями, прогнозами и действительностью.&lt;/p&gt;
 
@@ -89,7 +89,7 @@
 
 &lt;p&gt;Итак, что мы имеем в сухом остатке? С одной стороны потребность получить как можно больше продукта, потратив как можно меньше средств, времени и с малой долей риска, а с другой прямую зависимость успеха от оценки (в первую очередь инженерно-технической) и выбора технологий и технических средств.&lt;/p&gt;
 
-&lt;figure&gt;&lt;figcaption&gt;Помните выражение &quot;большие, но по пять, а маленькие но по три&quot;?&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/comic.jpg&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;figcaption&gt;Помните выражение &quot;большие, но по пять, а маленькие но по три&quot;?&lt;/figcaption&gt;&lt;img src=&quot;/articles/assets/img/comic.jpg&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;Все это, естественно, склоняет здравый рассудок к применению проверенных, зарекомендовавших себя технологий и технических средств, изредка проводя опытные работы медленно двигая прогресс.&lt;/p&gt;
 
@@ -125,7 +125,7 @@
 
 &lt;p&gt;Пример достаточно простой схемы хвостовика представлен ниже:&lt;/p&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/well-schema.png&quot; /&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/articles/assets/img/well-schema.png&quot; /&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;p&gt;Естественно, от точности положения элементов хвостовика (особенно муфт ГРП и набухающих пакеров) будет зависеть насколько качественно скважиной будет охвачены продуктивные интервалы, в этом весь смысл.&lt;/p&gt;
 
@@ -720,7 +720,7 @@
 
 &lt;p&gt;Возможные проблемы необходимо нивелировать, в этом зачастую заключается успех.&lt;/p&gt;
 
-&lt;figure&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;img src=&quot;/assets/img/red_floor.jpg&quot; /&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;figcaption&gt;&lt;/figcaption&gt;&lt;img src=&quot;/articles/assets/img/red_floor.jpg&quot; /&gt;&lt;/figure&gt;
 
 &lt;p&gt;Если риски оценены не в полном объеме — это путь к браку в работе!&lt;/p&gt;
 
@@ -909,8 +909,8 @@
 &lt;p&gt;&lt;a rel=&quot;license&quot; href=&quot;http://creativecommons.org/licenses/by/4.0/&quot;&gt;&lt;img alt=&quot;Лицензия Creative Commons&quot; style=&quot;border-width:0&quot; src=&quot;https://i.creativecommons.org/l/by/4.0/80x15.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 11:46:04 -0500</pubDate>
-        <link>/articles/16/kuda-privodyat-mechty</link>
-        <guid isPermaLink="true">/articles/16/kuda-privodyat-mechty</guid>
+        <link>/articles/articles/16/kuda-privodyat-mechty</link>
+        <guid isPermaLink="true">/articles/articles/16/kuda-privodyat-mechty</guid>
         
         
         <category>jekyll</category>
